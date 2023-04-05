@@ -5,10 +5,11 @@ Break Breaker is a simple Java game where the player controls a paddle to bounce
 # 🚀 Getting Started
 
 To get started, clone the repository and run the Main.java file.
-$ git clone https://github.com/Theyashsawarkar/Break-Breaker.git
-$ cd Break-Breaker
-$ javac Main.java
-$ java Main
+
+- $ git clone https://github.com/Theyashsawarkar/Break-Breaker.git
+- $ cd Break-Breaker
+- $ javac Main.java
+- $ java Main
 
 # 🎮 How to Play
 
