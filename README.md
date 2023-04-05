@@ -12,7 +12,10 @@ $ java Main
 
 # 🎮 How to Play
 
-Use the left and right arrow keys to move the paddle. Bounce the ball off the paddle and break all the bricks on the screen to advance to the next level. If the ball falls below the paddle, you lose a life. You have three lives per game.
+- Use the left and right arrow keys to move the paddle.
+- Bounce the ball off the paddle and break all the bricks on the screen to advance to the next level.
+- If the ball falls below the paddle, you lose a life.
+- You have three lives per game.
 
 # 💻 Technical Details
 
